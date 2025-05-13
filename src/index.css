@@ -133,3 +133,29 @@ li{
   font-size: 1.4rem;
   margin-left: 10px;
 }
+
+/*DigitalClock*/
+/* body{
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  align-items: center;
+} */
+.clock-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  /* height: 100vh; */
+}
+.clock{
+  font-size: 6rem;
+  font-weight: bold;
+  font-family: monospace;
+  text-align: center;
+  text-shadow: 3px 3px 5px hsla(0, 0%, 0%, 0.75);
+
+}
+h2{
+  text-align: center;
+}
