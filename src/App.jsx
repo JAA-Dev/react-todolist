@@ -5,6 +5,7 @@ import WinSize from './component/effectWinSize.jsx'
 import Clock from './component/digitalClock.jsx'
 import Context from './component/UseContext.jsx'
 import Ref from './component/UseRef.jsx'
+import StopWatch from './component/Pages/StopWatch.jsx'
 function App() {
   
 
@@ -16,6 +17,8 @@ function App() {
       <Clock />
       <Context />
       <Ref />
+      <StopWatch />
+      <StopWatch />
     </>
   )
 }
