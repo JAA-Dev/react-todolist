@@ -159,3 +159,8 @@ li{
 h2{
   text-align: center;
 }
+
+.box{
+  border: 3px solid black;
+  padding: 25px;
+}
